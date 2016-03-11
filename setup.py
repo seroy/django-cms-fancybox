@@ -8,7 +8,6 @@ install_requires = [
     'django',
     'django-cms',
     'django-filer',
-    'django-tinymce',
 ]
 
 setup(
